@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="./style.css">
+
+  <title>Frontend Mentor | Expenses chart component</title>
+</head>
+<body>
+<main>
+  <content>
+    <header>
+      <div>
+        <p>My balance</p>
+        <h1>$921.48</h1>
+      </div>
+      <img src="./images/logo.svg" alt="">
+    </header>
+    <section class="chart">
+      <h2>Spending - Last 7 days</h2>
+      <div id="chartContainer">
+        <!-- Get's filled dynamically by JSON, see ./js/function.js -->
+      </div>
+
+      <div class="summary">
+        <div class="total">
+          <p>Total this month</p>
+          <h3>$478.33</h3>
+        </div>
+        <div class="lastmonth">
+          <p>
+            <strong>+2.4%</strong><br>
+            from last month
+          </p>
+        </div>
+      </div>
+      </div>
+    </section>
+  </content>
+  <footer>
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="https://www.frontendmentor.io/profile/ricekeks">ricekeks</a>.
+  </footer>
+</main>
+
+<script src="./js/function.js"></script>
+</body>
+</html>
