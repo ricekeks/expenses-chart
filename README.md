@@ -48,9 +48,9 @@ Users should be able to:
 
 ## What I learned
 
-What I need to learn is to pay closer attention to the designs including the active states. Otherwise I am getting continuesly surprised by elements I did not consider during the sketch phase. That makes late additions like for example the tooltips in this specific case rather difficult and nerve wrecking.
+What I need to learn is to pay closer attention to the designs including the active states. Otherwise I get often surprised by elements I did not consider during the planning phase. That makes late additions like for example the tooltips in this specific case rather difficult and nerve wrecking.
 
-Other than that I am very happy how this project went rather smoothly from start to finish and I can feel the improvements I have made up until now. Especially with flexbox I feel confident and usually secure in what to do to archieve expected results. With Javascript it is similar but slower, since I've just started using and understanding it.
+Other than that I am very happy how this project went rather smoothly from start to finish and I can feel the improvements I have made up until now. Especially with flexbox I feel confident and usually secure in what to do to achieve expected results. With Javascript it is similar but slower, since I've just started using and understanding it.
 
 I hope this solution helps someone who is looking to learn HTML, CSS and JS as well. I tried to make it understandable for others and myself.
 
